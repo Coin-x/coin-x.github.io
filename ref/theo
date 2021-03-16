@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Meta Tag</title>
+      <meta http-equiv = "refresh" content = "2; url = https://www.tutorialspoint.com" />
+   </head>
+   <body>
+      <h2 style="text-align:center;font-family:arial;">Hold up! We are redirecting you!</h2>
+   </body>
+</html>
